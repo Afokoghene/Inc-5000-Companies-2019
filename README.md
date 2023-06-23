@@ -411,6 +411,8 @@ This data visualization was created using Tableau desktop, each visual in it is 
 
 Check out the live dashboard and interact with it [here](https://public.tableau.com/app/profile/afokoghene.osiobe.arierhi/viz/Inc5000CompaniesPerformanceDashboard1_0/Inc5000CompaniesListPerformanceDashboard1_0)
 
+---
+
 ## Insights and Recommendations
 ### Insights
 
