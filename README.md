@@ -406,9 +406,10 @@ Above, the top 10 companies that increased workers are shown in a descending ord
 
 This data visualization was created using Tableau desktop, each visual in it is created to display information matching each question in the problem statement.
 
-![Image]()
+![Image](Inc_5000_Companies_List_Performance_Dashboard_1.0)
+![Image](Inc_5000_Companies_List_Performance_Dashboard_1.1)
 
-Check out the live dashboard [here](https://public.tableau.com/app/profile/afokoghene.osiobe.arierhi/viz/NYCAccidents2020-N/NewYorkCityAccidentsJanuarytoAugust2020?publish=yes)
+Check out the live dashboard and interact with it [here](https://public.tableau.com/app/profile/afokoghene.osiobe.arierhi/viz/Inc5000CompaniesPerformanceDashboard1_0/Inc5000CompaniesListPerformanceDashboard1_0)
 
 
 
