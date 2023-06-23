@@ -404,14 +404,15 @@ Above, the top 10 companies that increased workers are shown in a descending ord
 
 ## Data Visualization
 
-This data visualization was created using Tableau desktop, each visual in it is created to display information matching each question in the problem statement.
+This data visualization was created using Tableau desktop, each visual in it is created to display information matching not all but majority of most important questions from the problem statement.
 
-![Image](Inc_5000_Companies_List_Performance_Dashboard_1.0)
-![Image](Inc_5000_Companies_List_Performance_Dashboard_1.1)
+![Image](Inc_5000_Companies_List_Performance_Dashboard_1.0.png)
+![Image](Inc_5000_Companies_List_Performance_Dashboard_1.1.png)
 
 Check out the live dashboard and interact with it [here](https://public.tableau.com/app/profile/afokoghene.osiobe.arierhi/viz/Inc5000CompaniesPerformanceDashboard1_0/Inc5000CompaniesListPerformanceDashboard1_0)
 
-
+## Insights and Recommendations
+### Insights
 
 
 
